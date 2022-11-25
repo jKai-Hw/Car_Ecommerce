@@ -12,4 +12,3 @@ https://jkai-hw.github.io/Car_Ecommerce/
 
 ## Description
 商品の画像、名前、販売会社などを表示するカードコンポーネントを作成し、商品オブジェクトの配列をv-forディレクティブで表示しています。
-
